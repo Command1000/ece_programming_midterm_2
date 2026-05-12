@@ -18,7 +18,7 @@ if(a>0&&b>0){
 	swap(box[a],box[b]);
 }
 if(b==-1){
-	swap(box[a][0],box[a][2]);
+		swap(box[a][0],box[a][2]);
         swap(box[a][2],box[a][5]);
         swap(box[a][5],box[a][3]);
 }
