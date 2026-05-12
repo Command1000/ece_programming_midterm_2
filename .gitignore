@@ -1,0 +1,63 @@
+# ==========================================
+# OS Generated Files
+# ==========================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+*.msi
+*.exe
+
+# ==========================================
+# Virtual Machines & Containers
+# ==========================================
+
+# VirtualBox & VMware
+*.vbox
+*.vbox-prev
+*.vdi
+*.vhd
+*.vmdk
+*.vmsd
+*.vmx
+*.vmxf
+*.vmem
+
+# Vagrant & Docker
+.vagrant/
+.docker/
+
+# ==========================================
+# Development & Build Artifacts
+# ==========================================
+
+# C++ Executables and Object files (ZeroJudge)
+*.o
+*.obj
+*.out
+*.app
+*.exe
+
+# Python Cache and Virtual Environments
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Editor temporary files (Vim & VSCode)
+*.swp
+*.swo
+.vscode/
+.history/
+*.undo
