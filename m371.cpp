@@ -43,7 +43,7 @@ while(!stay){
 					stay=false;
 				}
 			break;
-                        }
+            }
 		}
 	}
 }
